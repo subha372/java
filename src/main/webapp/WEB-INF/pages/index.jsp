@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Maven + Spring MVC Web</h1>
+<h1>Maven + Spring1 MVC Web</h1>
  
 <h1 style='color:blue'> Demo project Online</h2>
 
